@@ -1,0 +1,12 @@
+{
+  "name": "commonjs-modules-demo",
+  "version": "1.0.0",
+  "description": "Demo for CommonJS modules and global variables",
+  "main": "commonjs/globalB.js",
+  "type": "module",
+  "scripts": {
+    "start": "node commonjs/globalB.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
